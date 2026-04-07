@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+     width="800" height="600" viewBox="0 0 800 600">
+
+  <rect x="0" y="0" width="800" height="600" fill="white"/>
+
+  <polygon points="200,180 175,270 225,270" fill="purple"/>
+  <line x1="93.76" y1="208.53" x2="306.24" y2="151.47"
+        stroke="red" stroke-width="10" stroke-linecap="round"/>
+
+  <rect x="53.76" y="168.53" width="80" height="80" fill="none" stroke="black" stroke-width="2">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 93.76 208.53" to="360 93.76 208.53"
+                      dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <line x1="53.76" y1="208.53" x2="133.76" y2="208.53" stroke="black" stroke-width="1">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 93.76 208.53" to="360 93.76 208.53"
+                      dur="6s" repeatCount="indefinite"/>
+  </line>
+  <line x1="93.76" y1="168.53" x2="93.76" y2="248.53" stroke="black" stroke-width="1">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 93.76 208.53" to="360 93.76 208.53"
+                      dur="6s" repeatCount="indefinite"/>
+  </line>
+
+  <rect x="266.24" y="111.47" width="80" height="80" fill="none" stroke="black" stroke-width="2">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 306.24 151.47" to="360 306.24 151.47"
+                      dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <line x1="266.24" y1="151.47" x2="346.24" y2="151.47" stroke="black" stroke-width="1">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 306.24 151.47" to="360 306.24 151.47"
+                      dur="6s" repeatCount="indefinite"/>
+  </line>
+  <line x1="306.24" y1="111.47" x2="306.24" y2="191.47" stroke="black" stroke-width="1">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 306.24 151.47" to="360 306.24 151.47"
+                      dur="6s" repeatCount="indefinite"/>
+  </line>
+
+  <polygon points="620,180 595,270 645,270" fill="green"/>
+  <line x1="513.76" y1="208.53" x2="726.24" y2="151.47"
+        stroke="red" stroke-width="10" stroke-linecap="round"/>
+
+  <rect x="473.76" y="168.53" width="80" height="80" fill="none" stroke="black" stroke-width="2">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 513.76 208.53" to="360 513.76 208.53"
+                      dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <line x1="473.76" y1="208.53" x2="553.76" y2="208.53" stroke="black" stroke-width="1">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 513.76 208.53" to="360 513.76 208.53"
+                      dur="6s" repeatCount="indefinite"/>
+  </line>
+  <line x1="513.76" y1="168.53" x2="513.76" y2="248.53" stroke="black" stroke-width="1">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 513.76 208.53" to="360 513.76 208.53"
+                      dur="6s" repeatCount="indefinite"/>
+  </line>
+
+  <rect x="686.24" y="111.47" width="80" height="80" fill="none" stroke="black" stroke-width="2">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 726.24 151.47" to="360 726.24 151.47"
+                      dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <line x1="686.24" y1="151.47" x2="766.24" y2="151.47" stroke="black" stroke-width="1">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 726.24 151.47" to="360 726.24 151.47"
+                      dur="6s" repeatCount="indefinite"/>
+  </line>
+  <line x1="726.24" y1="111.47" x2="726.24" y2="191.47" stroke="black" stroke-width="1">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 726.24 151.47" to="360 726.24 151.47"
+                      dur="6s" repeatCount="indefinite"/>
+  </line>
+
+  <polygon points="410,380 385,470 435,470" fill="blue"/>
+  <line x1="303.76" y1="351.47" x2="516.24" y2="408.53"
+        stroke="red" stroke-width="10" stroke-linecap="round"/>
+
+  <rect x="263.76" y="311.47" width="80" height="80" fill="none" stroke="black" stroke-width="2">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 303.76 351.47" to="360 303.76 351.47"
+                      dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <line x1="263.76" y1="351.47" x2="343.76" y2="351.47" stroke="black" stroke-width="1">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 303.76 351.47" to="360 303.76 351.47"
+                      dur="6s" repeatCount="indefinite"/>
+  </line>
+  <line x1="303.76" y1="311.47" x2="303.76" y2="391.47" stroke="black" stroke-width="1">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 303.76 351.47" to="360 303.76 351.47"
+                      dur="6s" repeatCount="indefinite"/>
+  </line>
+
+  <rect x="476.24" y="368.53" width="80" height="80" fill="none" stroke="black" stroke-width="2">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 516.24 408.53" to="360 516.24 408.53"
+                      dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <line x1="476.24" y1="408.53" x2="556.24" y2="408.53" stroke="black" stroke-width="1">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 516.24 408.53" to="360 516.24 408.53"
+                      dur="6s" repeatCount="indefinite"/>
+  </line>
+  <line x1="516.24" y1="368.53" x2="516.24" y2="448.53" stroke="black" stroke-width="1">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 516.24 408.53" to="360 516.24 408.53"
+                      dur="6s" repeatCount="indefinite"/>
+  </line>
+
+</svg>
